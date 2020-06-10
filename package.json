@@ -30,6 +30,7 @@
     "typescript": "^2.0.0"
   },
   "dependencies": {
-    "rxjs": "*"
+    "rxjs": "*",
+    "rxjs-compat": "^6.5.5"
   }
 }
